@@ -1,0 +1,41 @@
+{
+    "name":"mongodb-extensions",
+    "version":"0.0.2",
+    "description":"Friendly collection extensions for to the native mongodb native driver. Inspired by MongoSkin minus the kitchen sink.",
+    "main":"./mongodb-extensions",
+    "scripts":{
+    },
+    "contributors":[
+        {
+            "name":"BeauCoo",
+            "email":"info@beaucoo.com",
+            "url":"http://beaucoo.com/"
+        },
+        {
+            "name":"Rick Cotter",
+            "email":"rick@beaucoo.com"
+        }
+    ],
+    "bugs": {
+        "url": "https://github.com/beaucoo/mongodb-extensions/issues"
+    },
+    "repository":{
+        "type":"git",
+        "url":"git@github.com:beaucoo/mongodb-extensions.git"
+    },
+    "engines":[
+        "node"
+    ],
+    "keywords":[
+        "mongodb",
+        "collection",
+        "query"
+    ],
+    "readmeFilename": "README.md",
+    "license":"MIT",
+    "dependencies":{
+        "mongodb":"1.2.x"
+    },
+    "devDependencies": {
+    }
+}
