@@ -1,7 +1,7 @@
 #MongoDB Extensions
 
-(Deprecated) Friendly collection extensions for to the [mongodb](https://github.com/mongodb/node-mongodb-native) native driver. Inspired by [MongoSkin](https://github.com/kissjs/node-mongoskin) minus the kitchen sink.
-Something changed. Modifying a prototype this way no longer seems to work globally. Probably bad form anyways. Copy the code into a project file and use it the same way. It is still useful that way.
+Friendly collection extensions for to the [mongodb](https://github.com/mongodb/node-mongodb-native) native driver. Inspired by [MongoSkin](https://github.com/kissjs/node-mongoskin) minus the kitchen sink.
+
 #Download
 <pre><code>npm install mongodb-extensions</code></pre>
 

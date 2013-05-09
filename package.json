@@ -1,7 +1,7 @@
 {
     "name":"mongodb-extensions",
-    "version":"0.0.2",
-    "description":"(Deprecated) Friendly collection extensions to the native mongodb native driver. Inspired by MongoSkin minus the kitchen sink.",
+    "version":"0.0.3",
+    "description":"Friendly collection extensions to the native mongodb native driver. Inspired by MongoSkin minus the kitchen sink.",
     "main":"./mongodb-extensions",
     "scripts":{
     },
@@ -34,7 +34,7 @@
     "readmeFilename": "README.md",
     "license":"MIT",
     "dependencies":{
-        "mongodb":"1.2.x"
+        "mongodb":"1.x.x"
     },
     "devDependencies": {
     }
